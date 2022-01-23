@@ -1,0 +1,10 @@
+/.vs
+/Binaries
+/Build
+/DerivedDataCache
+/Intermediate
+/Script
+/Saved
+/unreal-c-example-4.22v
+*.sln
+*_BuiltData.uasset
